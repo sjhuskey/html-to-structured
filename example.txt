@@ -1,0 +1,45 @@
+{
+        "ID": "0b598dd1c3e7742218c50a82e61fd45b",
+        "Name": "Ἀγαθοκλῆς (3)",
+        "Date": "END I AD",
+        "Sources": [
+            {
+                "Resource": "IG V 1. 148",
+                "Reference": "a"
+            },
+            {
+                "Resource": "SEG XI 515",
+                "Reference": "b"
+            },
+            {
+                "Resource": "SEG XI 534",
+                "Reference": "c"
+            },
+            {
+                "Resource": "SEG XI 537",
+                "Reference": "d"
+            }
+        ],
+        "Facts": [
+            {
+                "Fact": "Son of (Agathokles &lt;24&gt;)",
+                "Sources": [
+                    "a",
+                    "b",
+                    "c",
+                    "d"
+                ]
+            },
+            {
+                "Fact": "Nomo(deiktes) in the years of Nikokrates (12), Kleodamos (3)<sup>c</sup>, and C. Ju(lius) Charixenos\n(7)<sup>ad</sup>",
+                "Sources": ["b"]
+            },
+            {
+                "Fact": "Kleodamos (3)",
+                "Sources": ["c"]
+            },
+            {
+                "Fact": "C. Ju(lius) Charixenos (7)",
+                "Sources": ["a", "d"]
+            }
+    }
